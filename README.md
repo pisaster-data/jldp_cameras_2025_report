@@ -10,6 +10,6 @@ A public repository that contains the report [Coastal wildlife camera assessment
 
 <br>
 
-**Citation**
+**Citation:**
 
 Gray M. 2025. Coastal wildlife camera assessment: Data inventory, performance evaluation, and biodiversity baseline for terrestrial mammals at Dangermond Preserve. A technical report prepared by Pisaster for The Nature Conservancy. Berkeley, CA. 79p.
