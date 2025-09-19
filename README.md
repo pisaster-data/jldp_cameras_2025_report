@@ -1,4 +1,4 @@
-# Coastal wildlife camera assessment
+# Coastal wildlife camera assessment report
 
 A public repository that contains the report [Coastal wildlife camera assessment: Data inventory, performance evaluation, and biodiversity baseline for terrestrial mammals at Dangermond Preserve](docs/index.html).
 
